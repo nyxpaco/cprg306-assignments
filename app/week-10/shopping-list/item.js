@@ -1,5 +1,4 @@
-export default function Item ({ name, quantity, category, onSelect }) 
-{
+export default function Item ({ name, quantity, category, onSelect }) {
     return (
         <ul
             onClick={onSelect} // Make the entire item clickable
