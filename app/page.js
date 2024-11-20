@@ -45,6 +45,12 @@ export default function page() {
   </Link>
 </li>
 
+<li>
+  <Link href="./week-9" className="font-bold text-pink-600 hover:text-pink-400 shadow-lg">
+    Week 9
+  </Link>
+</li> 
+
       </main>
   );
 }
